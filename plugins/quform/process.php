@@ -5,7 +5,7 @@
  * your form. It's useful to have this enabled while developing your form, but
  * you should set this to false on production sites.
  */
-define('QUFORM_DEBUG', false);
+define('QUFORM_DEBUG', true);
 
 /** DO NOT CHANGE THESE 2 LINES **/
 define('QUFORM_ROOT', realpath(dirname(__FILE__)));
