@@ -139,7 +139,7 @@ ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-box li a{ padding: 14px 19p
 	.gdlr-core-hide-in-tablet{ display: block; }
 
 	body .gdlr-core-container{ max-width: 700px; padding-left: 15px; padding-right: 15px; }
-	body .gdlr-core-container-custom{ max-width: 700px !important; padding-left: 15px; padding-right: 15px; }
+	body .gdlr-core-container-custom{ max-width: 900px !important; padding-left: 15px; padding-right: 15px; }
 	.gdlr-core-pbf-wrapper{ padding-left: 0px !important; padding-right: 0px !important; }
 	.gdlr-core-pbf-wrapper-full{ max-width: 700px; padding-left: 15px; padding-right: 15px; }
 	.gdlr-core-pbf-column-content-margin{ padding-left: 0px !important; padding-right: 0px !important; margin-left: 0px !important; margin-right: 0px !important; }
