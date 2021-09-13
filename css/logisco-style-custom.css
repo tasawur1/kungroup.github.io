@@ -155,7 +155,7 @@ ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-box li a{ padding: 14px 19p
 	.gdlr-core-column-10, .gdlr-core-column-12, .gdlr-core-column-15, .gdlr-core-column-20,
 	.gdlr-core-column-24, .gdlr-core-column-30, .gdlr-core-column-36, .gdlr-core-column-40,
 	.gdlr-core-column-45, .gdlr-core-column-48, .gdlr-core-column-50, .gdlr-core-column-60{ width: 100%; }
-	.gdlr-core-pbf-column-content{ min-height: 0px; }
+	.gdlr-core-pbf-column-content{ min-height: 0px; max-height: 70%; }
 
 	.gdlr-core-pbf-sidebar-content,
 	.gdlr-core-pbf-sidebar-right,
