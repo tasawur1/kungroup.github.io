@@ -306,7 +306,7 @@ body.logisco-boxed .logisco-body-wrapper{ margin-top: 0px; margin-bottom: 0px; }
 .logisco-header-style-bar .logisco-logo-right-text{ padding-top: 30px; } 
 .logisco-logo{ padding-top: 40px; } 
 .logisco-logo{ padding-bottom: 40px; } 
-.logisco-logo-inner{ max-width: 250px; } 
+.logisco-logo-inner{ max-width: 200px; } 
 @media only screen and (max-width: 999px){ .logisco-mobile-header .logisco-logo-inner{ max-width: 130px; } } 
 @media only screen and (max-width: 767px){ .logisco-mobile-header .logisco-logo-inner{ max-width: 130px; } } 
 .logisco-navigation{ padding-top: 56px; }.logisco-navigation-top{ top: 56px; } 
