@@ -418,7 +418,7 @@ p.quform-group-description {
 /*Submit button*/
 .quform-submit {margin: 10px 0}
 .quform-submit-inner {
-	float: left;
+	padding-bottom: 30px;
 }
 .quform-submit button {
 	margin: 0;
