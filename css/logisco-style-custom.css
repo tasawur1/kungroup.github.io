@@ -139,7 +139,7 @@ ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-box li a{ padding: 14px 19p
 	.gdlr-core-hide-in-tablet{ display: block; }
 
 	body .gdlr-core-container{ max-width: 700px; padding-left: 15px; padding-right: 15px; }
-	body .gdlr-core-container-custom{ max-width: 900px !important; padding-left: 15px; padding-right: 15px; }
+	body .gdlr-core-container-custom{ max-width: 700px !important; padding-left: 15px; padding-right: 15px; }
 	.gdlr-core-pbf-wrapper{ padding-left: 0px !important; padding-right: 0px !important; }
 	.gdlr-core-pbf-wrapper-full{ max-width: 700px; padding-left: 15px; padding-right: 15px; }
 	.gdlr-core-pbf-column-content-margin{ padding-left: 0px !important; padding-right: 0px !important; margin-left: 0px !important; margin-right: 0px !important; }
@@ -155,7 +155,7 @@ ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-box li a{ padding: 14px 19p
 	.gdlr-core-column-10, .gdlr-core-column-12, .gdlr-core-column-15, .gdlr-core-column-20,
 	.gdlr-core-column-24, .gdlr-core-column-30, .gdlr-core-column-36, .gdlr-core-column-40,
 	.gdlr-core-column-45, .gdlr-core-column-48, .gdlr-core-column-50, .gdlr-core-column-60{ width: 100%; }
-	.gdlr-core-pbf-column-content{ min-height: 0px; max-height: 70%; }
+	.gdlr-core-pbf-column-content{ min-height: 0px; }
 
 	.gdlr-core-pbf-sidebar-content,
 	.gdlr-core-pbf-sidebar-right,
@@ -342,7 +342,7 @@ body.single-post .logisco-sidebar-style-none, body.blog .logisco-sidebar-style-n
 .gdlr-core-portfolio-thumbnail .gdlr-core-portfolio-icon{ font-size: 22px; } 
 .logisco-footer-wrapper{ padding-top: 67px; } 
 .logisco-footer-wrapper{ padding-bottom: 42px; } 
-.logisco-copyright-container{ padding-top: 38px; } 
+.logisco-copyright-container{ padding-top: 38px;} 
 .logisco-copyright-container{ padding-bottom: 38px; } 
 .logisco-body h1, .logisco-body h2, .logisco-body h3, .logisco-body h4, .logisco-body h5, .logisco-body h6, .logisco-body .logisco-title-font,.logisco-body .gdlr-core-title-font{ font-family: "Assistant", sans-serif; }.woocommerce-breadcrumb, .woocommerce span.onsale, .single-product.woocommerce div.product p.price .woocommerce-Price-amount, .single-product.woocommerce #review_form #respond label{ font-family: "Assistant", sans-serif; } 
 .logisco-navigation .sf-menu > li > a, .logisco-navigation .sf-vertical > li > a, .logisco-navigation-font{ font-family: "Karla", sans-serif; } 
@@ -379,8 +379,8 @@ body.single-post .logisco-sidebar-style-none, body.blog .logisco-sidebar-style-n
 .logisco-footer-wrapper .widget_text{ text-transform: none; } 
 .logisco-copyright-text, .logisco-copyright-left, .logisco-copyright-right{ font-size: 16px; } 
 .logisco-copyright-text, .logisco-copyright-left, .logisco-copyright-right{ font-weight: 600; } 
-.logisco-copyright-text, .logisco-copyright-left, .logisco-copyright-right{ letter-spacing: 0px; } 
-.logisco-copyright-text, .logisco-copyright-left, .logisco-copyright-right{ text-transform: none; } 
+.logisco-copyright-text, .logisco-copyright-left, .logisco-copyright-right{ letter-spacing: 4px;} 
+.logisco-copyright-text, .logisco-copyright-left, .logisco-copyright-right{ text-transform: uppercase; text-align: center; } 
 .logisco-top-bar-background{ background-color: #e53c35; } 
 .logisco-body .logisco-top-bar{ border-bottom-color: #ffffff; } 
 .logisco-top-bar{ color: #ffffff; } 
